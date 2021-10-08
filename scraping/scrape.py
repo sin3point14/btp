@@ -1,7 +1,7 @@
 import requests, json
 from bs4 import BeautifulSoup
 
-# get by running 
+# run
 # a = [...document.querySelectorAll("#tblResults tr a")].map(e => e.href)
 # in devtools console of the results of a search to get URLs
 urls = ["http://www.matweb.com/search/DataSheet.aspx?MatGUID=4e6a4852b14c4b12998acf2f8316c07c",
