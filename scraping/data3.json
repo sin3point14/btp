@@ -1,0 +1,1571 @@
+[
+    {
+        "alloy": "Overview of materials for Magnesium Alloy",
+        "Tensile Strength, Ultimate": "90.0",
+        "Elongation at Break": 15.75,
+        "Tensile Strength, Yield": "21.0",
+        "Composition": {
+            "Aluminum, Al": 26.05,
+            "Beryllium, Be": "0.000800",
+            "Calcium, Ca": 0.16999999999999998,
+            "Copper, Cu": 1.505,
+            "Gadolinium, Gd": 13.0,
+            "Iron, Fe": 0.07675,
+            "Lithium, Li": 7.6,
+            "Magnesium, Mg": 74.0,
+            "Manganese, Mn": 0.64,
+            "Neodymium, Nd": 14.3,
+            "Nickel, Ni": 0.0155,
+            "Rare Earths": 11.05,
+            "Silicon, Si": 0.755,
+            "Silver, Ag": 2.15,
+            "Thorium, Th": 2.3,
+            "Yttrium, Y": 15.85,
+            "Zinc, Zn": 3.56,
+            "Zirconium, Zr": 19.1
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=4e6a4852b14c4b12998acf2f8316c07c"
+    },
+    {
+        "alloy": "Magnesium Alloys, General",
+        "Tensile Strength, Ultimate": "MISSING",
+        "Elongation at Break": "MISSING",
+        "Tensile Strength, Yield": "MISSING",
+        "Composition": {
+            "Magnesium, Mg": 92.5
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=9fd0a41bf0eb40c4ae7d73d5dec1c1d6"
+    },
+    {
+        "alloy": "Magnesium AE42-F, Die Cast",
+        "Tensile Strength, Ultimate": "234",
+        "Elongation at Break": "11",
+        "Tensile Strength, Yield": "145",
+        "Composition": {
+            "Aluminum, Al": "4.0",
+            "Magnesium, Mg": "93.4",
+            "Manganese, Mn": 0.1,
+            "Rare Earths": "2.5"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=503232647ec44a408f191d57dd336ea5"
+    },
+    {
+        "alloy": "Magnesium AM100A-T61, Sand Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "1.0",
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Aluminum, Al": 10.0,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 0.3
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=15c8581a40f54c5494ab998ffc569971"
+    },
+    {
+        "alloy": "Magnesium AM100A-F, Cast",
+        "Tensile Strength, Ultimate": "150",
+        "Elongation at Break": "2.0",
+        "Tensile Strength, Yield": "83.0",
+        "Composition": {
+            "Aluminum, Al": 10.0,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 0.3
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=5e4ae9a0cf7f40d1b15326f36cadb6e5"
+    },
+    {
+        "alloy": "Magnesium AM100A-T4, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "10",
+        "Tensile Strength, Yield": "90.0",
+        "Composition": {
+            "Aluminum, Al": 10.0,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 0.3
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=0ca942a869a14901b54606e3007d1c25"
+    },
+    {
+        "alloy": "Magnesium AM100A-T5, Cast",
+        "Tensile Strength, Ultimate": "150",
+        "Elongation at Break": "2.0",
+        "Tensile Strength, Yield": "110",
+        "Composition": {
+            "Aluminum, Al": 10.0,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 0.3
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=15c89e1b04bb4f7e976b7ed003c8a257"
+    },
+    {
+        "alloy": "Magnesium AM100A-T7, Cast",
+        "Tensile Strength, Ultimate": "260",
+        "Elongation at Break": "1.0",
+        "Tensile Strength, Yield": "125",
+        "Composition": {
+            "Aluminum, Al": 10.0,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 0.3
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=e994edba533c4cdaa512e455b5ee400f"
+    },
+    {
+        "alloy": "Magnesium AM100A-T6, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "110",
+        "Composition": {
+            "Aluminum, Al": 10.0,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 0.3
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=987d2403a49841a7b59ae89ab11fb1c7"
+    },
+    {
+        "alloy": "Magnesium AM20-F, Die Cast",
+        "Tensile Strength, Ultimate": "214",
+        "Elongation at Break": "20",
+        "Tensile Strength, Yield": "89.6",
+        "Composition": {
+            "Aluminum, Al": "2.1",
+            "Magnesium, Mg": "97.8",
+            "Manganese, Mn": 0.1
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=3091e2deec9c450aa3b903cc028ce5cd"
+    },
+    {
+        "alloy": "Magnesium AM50A-F, Die Cast",
+        "Tensile Strength, Ultimate": "228",
+        "Elongation at Break": "15",
+        "Tensile Strength, Yield": "124",
+        "Composition": {
+            "Aluminum, Al": 4.9,
+            "Copper, Cu": 0.01,
+            "Iron, Fe": 0.004,
+            "Magnesium, Mg": "94.8",
+            "Manganese, Mn": 0.43,
+            "Nickel, Ni": 0.002,
+            "Other, each": 0.02,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.22
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=a39cbb3aee8944259f0146ec21cbbfcf"
+    },
+    {
+        "alloy": "Parkway Products Thixomolded\u00ae AM50A Magnesium",
+        "Tensile Strength, Ultimate": "200",
+        "Elongation at Break": "10",
+        "Tensile Strength, Yield": "110",
+        "Composition": {
+            "Aluminum, Al": 4.9,
+            "Copper, Cu": 0.01,
+            "Iron, Fe": 0.004,
+            "Magnesium, Mg": "94.8",
+            "Manganese, Mn": 0.43,
+            "Nickel, Ni": 0.002,
+            "Other, each": 0.02,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.22
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=0b8bc019ee4b4d8ba35e7835b1e803c2"
+    },
+    {
+        "alloy": "Magnesium AM60A-F, Die Cast",
+        "Tensile Strength, Ultimate": "241",
+        "Elongation at Break": "13",
+        "Tensile Strength, Yield": "131",
+        "Composition": {
+            "Aluminum, Al": 6.0,
+            "Copper, Cu": 0.35,
+            "Magnesium, Mg": "94",
+            "Manganese, Mn": 0.365,
+            "Nickel, Ni": 0.03,
+            "Silicon, Si": 0.5,
+            "Zinc, Zn": 0.22
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=9d88870cabe84aad823bcfed0b9ce00f"
+    },
+    {
+        "alloy": "Parkway Products Thixomolded\u00ae AM60A Magnesium",
+        "Tensile Strength, Ultimate": "221",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "131",
+        "Composition": {
+            "Aluminum, Al": 6.0,
+            "Copper, Cu": 0.35,
+            "Magnesium, Mg": "94",
+            "Manganese, Mn": 0.365,
+            "Nickel, Ni": 0.03,
+            "Silicon, Si": 0.5,
+            "Zinc, Zn": 0.22
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=345552bb38074138b63c8c3d936a7329"
+    },
+    {
+        "alloy": "Magnesium AM60B-F, Die Cast",
+        "Tensile Strength, Ultimate": "241",
+        "Elongation at Break": "13",
+        "Tensile Strength, Yield": "131",
+        "Composition": {
+            "Aluminum, Al": 6.0,
+            "Copper, Cu": 0.01,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "94",
+            "Manganese, Mn": 0.425,
+            "Nickel, Ni": 0.002,
+            "Other, each": 0.2,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.22
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=f311ea86cd814ff8b7a70efb42eb9f41"
+    },
+    {
+        "alloy": "Magnesium AS21X1, Die Cast",
+        "Tensile Strength, Ultimate": "MISSING",
+        "Elongation at Break": "9.0",
+        "Tensile Strength, Yield": "130",
+        "Composition": {
+            "Aluminum, Al": "1.7",
+            "Magnesium, Mg": "97",
+            "Manganese, Mn": 0.4,
+            "Silicon, Si": "1.1"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=891752cabcb4448db3a84e0814c15d2c"
+    },
+    {
+        "alloy": "Magnesium AS21-F, Die Cast",
+        "Tensile Strength, Ultimate": "221",
+        "Elongation at Break": "13",
+        "Tensile Strength, Yield": "117",
+        "Composition": {
+            "Aluminum, Al": "2.2",
+            "Magnesium, Mg": "96.7",
+            "Manganese, Mn": 0.1,
+            "Silicon, Si": "1.0"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=b910504d247f418e8e70a10ad0f549c2"
+    },
+    {
+        "alloy": "Magnesium AS41XA-F, Die Cast",
+        "Tensile Strength, Ultimate": "220",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Aluminum, Al": 4.25,
+            "Copper, Cu": 0.06,
+            "Magnesium, Mg": "94",
+            "Manganese, Mn": 0.35,
+            "Nickel, Ni": 0.03,
+            "Silicon, Si": 1.0,
+            "Zinc, Zn": 0.12
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=01e54466915345a1b17f2dfbfe8daf24"
+    },
+    {
+        "alloy": "Magnesium AS41A-F, Die Cast",
+        "Tensile Strength, Ultimate": "214",
+        "Elongation at Break": 10.5,
+        "Tensile Strength, Yield": "138",
+        "Composition": {
+            "Aluminum, Al": 4.25,
+            "Copper, Cu": 0.06,
+            "Magnesium, Mg": "94.6",
+            "Manganese, Mn": 0.35,
+            "Nickel, Ni": 0.03,
+            "Silicon, Si": 1.0,
+            "Zinc, Zn": 0.12
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=4b809e646f4b4388ad11d46e8f371db7"
+    },
+    {
+        "alloy": "Magnesium AS41B-F, Die Cast",
+        "Tensile Strength, Ultimate": "214",
+        "Elongation at Break": 10.5,
+        "Tensile Strength, Yield": "138",
+        "Composition": {
+            "Aluminum, Al": 4.25,
+            "Copper, Cu": 0.02,
+            "Iron, Fe": 0.0035,
+            "Magnesium, Mg": "94.6",
+            "Manganese, Mn": 0.35,
+            "Nickel, Ni": 0.002,
+            "Other, each": 0.2,
+            "Silicon, Si": 1.0,
+            "Zinc, Zn": 0.12
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=8086715ebd994c8db7f81b0a784f2069"
+    },
+    {
+        "alloy": "Magnesium AS41XB-F, Die Cast",
+        "Tensile Strength, Ultimate": "220",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Aluminum, Al": 4.25,
+            "Copper, Cu": 0.02,
+            "Iron, Fe": 0.0035,
+            "Magnesium, Mg": "94",
+            "Manganese, Mn": 0.35,
+            "Nickel, Ni": 0.002,
+            "Silicon, Si": 1.0,
+            "Zinc, Zn": 0.12
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=e7fd7da733c8410ea31694f1636c7bb5"
+    },
+    {
+        "alloy": "Magnesium AZ10A-F, Extruded",
+        "Tensile Strength, Ultimate": "240",
+        "Elongation at Break": "10",
+        "Tensile Strength, Yield": "155",
+        "Composition": {
+            "Aluminum, Al": 1.25,
+            "Calcium, Ca": 0.04,
+            "Copper, Cu": 0.1,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "98",
+            "Manganese, Mn": 0.2,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.4
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=8fa984ef30804ff9acb13f884c42d12d"
+    },
+    {
+        "alloy": "Magnesium AZ10A Wrought Alloy (UNS M11100)",
+        "Tensile Strength, Ultimate": "240",
+        "Elongation at Break": "10",
+        "Tensile Strength, Yield": "145",
+        "Composition": {
+            "Aluminum, Al": "1.5",
+            "Magnesium, Mg": "98"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=5bc55013c5b14ccfa05920e2b91be656"
+    },
+    {
+        "alloy": "Magnesium AZ21X1-F, Extruded Bars and Shapes",
+        "Tensile Strength, Ultimate": "MISSING",
+        "Elongation at Break": "MISSING",
+        "Tensile Strength, Yield": "MISSING",
+        "Composition": {
+            "Aluminum, Al": 2.05,
+            "Calcium, Ca": 0.175,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "97",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.002,
+            "Other": 0.3,
+            "Silicon, Si": 0.05,
+            "Zinc, Zn": 1.2000000000000002
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=b9ff95a9353144559007d9fc71c20dd0"
+    },
+    {
+        "alloy": "Magnesium AZ31B-F, Extruded Solid Shapes",
+        "Tensile Strength, Ultimate": "260",
+        "Elongation at Break": "15",
+        "Tensile Strength, Yield": "200",
+        "Composition": {
+            "Aluminum, Al": 3.0,
+            "Calcium, Ca": 0.04,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "96",
+            "Manganese, Mn": 0.2,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 1.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=5a005487e02e4e18b894b7867c3772f4"
+    },
+    {
+        "alloy": "Magnesium AZ31B T1 Wrought Alloy (UNS M11311)",
+        "Tensile Strength, Ultimate": "241",
+        "Elongation at Break": 16.5,
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Aluminum, Al": "3",
+            "Magnesium, Mg": "96",
+            "Zinc, Zn": "1"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=6099b550e8bb4d2baea27046a8af9e34"
+    },
+    {
+        "alloy": "Magnesium AZ31C-F, Extruded Solid Shapes",
+        "Tensile Strength, Ultimate": "260",
+        "Elongation at Break": "15",
+        "Tensile Strength, Yield": "200",
+        "Composition": {
+            "Aluminum, Al": 3.0,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "97",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.03,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 1.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=4f409bf3b3df4dc2a0d2176b33eb0876"
+    },
+    {
+        "alloy": "Magnesium AZ31B-O, Annealed Sheet",
+        "Tensile Strength, Ultimate": "255",
+        "Elongation at Break": "21",
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Aluminum, Al": 3.0,
+            "Calcium, Ca": 0.04,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "96",
+            "Manganese, Mn": 0.2,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 1.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=ac0c011a4d6a4948ac7b56c07f91b95f"
+    },
+    {
+        "alloy": "Magnesium AZ31B-H24, Hard Rolled Sheet",
+        "Tensile Strength, Ultimate": "290",
+        "Elongation at Break": "15",
+        "Tensile Strength, Yield": "220",
+        "Composition": {
+            "Aluminum, Al": 3.0,
+            "Calcium, Ca": 0.04,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "96",
+            "Manganese, Mn": 0.2,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 1.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=d1e286e1ac0742358544b953bbf3c2e9"
+    },
+    {
+        "alloy": "Magnesium AZ31B, Extruded Hollow Shapes",
+        "Tensile Strength, Ultimate": "241",
+        "Elongation at Break": "16",
+        "Tensile Strength, Yield": "165",
+        "Composition": {
+            "Aluminum, Al": 3.0,
+            "Calcium, Ca": 0.04,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "96",
+            "Manganese, Mn": 0.2,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 1.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=23d7f35662424675aad7df2e984109f6"
+    },
+    {
+        "alloy": "Magnesium AZ31B, Forgings",
+        "Tensile Strength, Ultimate": "260",
+        "Elongation at Break": "15",
+        "Tensile Strength, Yield": "170",
+        "Composition": {
+            "Aluminum, Al": 3.0,
+            "Calcium, Ca": 0.04,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "96",
+            "Manganese, Mn": 0.2,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 1.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=23a456922c4d4bb4b15519ed1c50c47f"
+    },
+    {
+        "alloy": "Magnesium AZ31B-H26, Hard Rolled Sheet",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "10",
+        "Tensile Strength, Yield": "190",
+        "Composition": {
+            "Aluminum, Al": 3.0,
+            "Calcium, Ca": 0.04,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "96",
+            "Manganese, Mn": 0.2,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 1.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=a812783cd8d44cfc89a8ccd8801d6968"
+    },
+    {
+        "alloy": "Magnesium AZ61A-F, Extruded Hollow Shapes",
+        "Tensile Strength, Ultimate": "280",
+        "Elongation at Break": "14",
+        "Tensile Strength, Yield": "165",
+        "Composition": {
+            "Aluminum, Al": 6.5,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "92",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.95
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=efb1f4e2d54f4fee97253566ae77a478"
+    },
+    {
+        "alloy": "Magnesium AZ61A-F, Extruded Solid Shapes",
+        "Tensile Strength, Ultimate": "310",
+        "Elongation at Break": "16",
+        "Tensile Strength, Yield": "230",
+        "Composition": {
+            "Aluminum, Al": 6.5,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "92",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.95
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=e81653f006ba4e2b916d2a7ca4a4b101"
+    },
+    {
+        "alloy": "Magnesium AZ61A-F, Forgings",
+        "Tensile Strength, Ultimate": "295",
+        "Elongation at Break": "12",
+        "Tensile Strength, Yield": "180",
+        "Composition": {
+            "Aluminum, Al": 6.5,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "92",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.95
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=2f831d3ba75c450590bd3146575cf16f"
+    },
+    {
+        "alloy": "Magnesium AZ63A-T6, Sand Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "5.0",
+        "Tensile Strength, Yield": "130",
+        "Composition": {
+            "Aluminum, Al": 6.0,
+            "Copper, Cu": 0.25,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 3.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=412c4207b81f416c8331dd8af44bbdb9"
+    },
+    {
+        "alloy": "Magnesium AZ63 T1 Cast Alloy (UNS M11630)",
+        "Tensile Strength, Ultimate": "200",
+        "Elongation at Break": "6.0",
+        "Tensile Strength, Yield": "97.0",
+        "Composition": {
+            "Aluminum, Al": "6.0",
+            "Magnesium, Mg": "90.7",
+            "Silicon, Si": "0.30"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=435d1094ebac4149ac62648daba849a5"
+    },
+    {
+        "alloy": "Magnesium AZ63A-F, Sand Cast",
+        "Tensile Strength, Ultimate": "200",
+        "Elongation at Break": "6.0",
+        "Tensile Strength, Yield": "97.0",
+        "Composition": {
+            "Aluminum, Al": 6.0,
+            "Copper, Cu": 0.25,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 3.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=9cd99c9e8dea4d29a71158b837e98b89"
+    },
+    {
+        "alloy": "Magnesium AZ63A-T4, Sand Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "12",
+        "Tensile Strength, Yield": "97.0",
+        "Composition": {
+            "Aluminum, Al": 6.0,
+            "Copper, Cu": 0.25,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 3.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=63d3406647a04540b3b2e2efedcf0601"
+    },
+    {
+        "alloy": "Magnesium AZ63A-T5, Sand Cast",
+        "Tensile Strength, Ultimate": "200",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "105",
+        "Composition": {
+            "Aluminum, Al": 6.0,
+            "Copper, Cu": 0.25,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 3.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=3f583bbc40d44c40bd55bdae7b122160"
+    },
+    {
+        "alloy": "Magnesium AZ63A-T7, Sand Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "6.0",
+        "Tensile Strength, Yield": "115",
+        "Composition": {
+            "Aluminum, Al": 6.0,
+            "Copper, Cu": 0.25,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 3.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=4a00b2d85a4541dd855412e299d7a611"
+    },
+    {
+        "alloy": "Magnesium AZ80A-T5, Extruded",
+        "Tensile Strength, Ultimate": "380",
+        "Elongation at Break": "7.0",
+        "Tensile Strength, Yield": "275",
+        "Composition": {
+            "Aluminum, Al": 8.5,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.12,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.5
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=d591ab3bc07a49039582efb8de674acd"
+    },
+    {
+        "alloy": "Magnesium AZ80A T4 Wrought Alloy (UNS M11800)",
+        "Tensile Strength, Ultimate": "330",
+        "Elongation at Break": 8.5,
+        "Tensile Strength, Yield": "230",
+        "Composition": {
+            "Aluminum, Al": "8.0",
+            "Magnesium, Mg": "91.5",
+            "Zinc, Zn": "0.50"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=f459463aa21d4a6c83123cf0b3d91b0e"
+    },
+    {
+        "alloy": "Magnesium AZ80A-F, Extruded",
+        "Tensile Strength, Ultimate": "340",
+        "Elongation at Break": "7.0",
+        "Tensile Strength, Yield": "250",
+        "Composition": {
+            "Aluminum, Al": 8.5,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.12,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.5
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=fdf4fc3706f14c8784ddc282dc505632"
+    },
+    {
+        "alloy": "Magnesium AZ80A-T5, Forged",
+        "Tensile Strength, Ultimate": "345",
+        "Elongation at Break": "11",
+        "Tensile Strength, Yield": "250",
+        "Composition": {
+            "Aluminum, Al": 8.5,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.12,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.5
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=be17820e155a4fd4a30cbd28edd14f10"
+    },
+    {
+        "alloy": "Magnesium AZ80A-F, Forged",
+        "Tensile Strength, Ultimate": "330",
+        "Elongation at Break": "11",
+        "Tensile Strength, Yield": "230",
+        "Composition": {
+            "Aluminum, Al": 8.5,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.12,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.5
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=0e889fa9668d45f2b015bf2f43f6b61b"
+    },
+    {
+        "alloy": "Magnesium AZ81A-T4, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "15",
+        "Tensile Strength, Yield": "83.0",
+        "Composition": {
+            "Aluminum, Al": 7.55,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "92",
+            "Manganese, Mn": 0.13,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=007b91ae31ba4930b218924682bd2e1d"
+    },
+    {
+        "alloy": "Magnesium AZ80A-T6, Forged",
+        "Tensile Strength, Ultimate": "340",
+        "Elongation at Break": "5.0",
+        "Tensile Strength, Yield": "250",
+        "Composition": {
+            "Aluminum, Al": 8.5,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.12,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.5
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=ea14a88a576a45f08ff009fb5749df15"
+    },
+    {
+        "alloy": "Magnesium AZ91C-T6, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "6.0",
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Aluminum, Al": 8.7,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.13,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=8c8cad8fe20544508f41b4a1300af4a1"
+    },
+    {
+        "alloy": "Magnesium AZ91C-T4, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "15",
+        "Tensile Strength, Yield": "90.0",
+        "Composition": {
+            "Aluminum, Al": 8.7,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.13,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=0ada036e31fb444eaa84e411021e2214"
+    },
+    {
+        "alloy": "Magnesium AZ91C-F, Cast",
+        "Tensile Strength, Ultimate": "165",
+        "Elongation at Break": "2.5",
+        "Tensile Strength, Yield": "97.0",
+        "Composition": {
+            "Aluminum, Al": 8.7,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.13,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=167aa28849f7445c88ba2300a4ba5c88"
+    },
+    {
+        "alloy": "Magnesium AZ91E-F, Cast",
+        "Tensile Strength, Ultimate": "165",
+        "Elongation at Break": "2.5",
+        "Tensile Strength, Yield": "97.0",
+        "Composition": {
+            "Aluminum, Al": 8.7,
+            "Copper, Cu": 0.015,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": 89.86500000000001,
+            "Manganese, Mn": 0.26,
+            "Nickel, Ni": 0.001,
+            "Other, total": 0.3,
+            "Silicon, Si": 0.2,
+            "Zinc, Zn": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=15ee784a488e4ba790fa0e93c3a65972"
+    },
+    {
+        "alloy": "Magnesium AZ91E-T4, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "15",
+        "Tensile Strength, Yield": "90.0",
+        "Composition": {
+            "Aluminum, Al": 8.7,
+            "Copper, Cu": 0.015,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": 89.86500000000001,
+            "Manganese, Mn": 0.26,
+            "Nickel, Ni": 0.001,
+            "Other, total": 0.3,
+            "Silicon, Si": 0.2,
+            "Zinc, Zn": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=8f0eab8295a947ee9addf50d2e1c896c"
+    },
+    {
+        "alloy": "Magnesium AZ91E-T6, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "6.0",
+        "Tensile Strength, Yield": "145",
+        "Composition": {
+            "Aluminum, Al": 8.7,
+            "Copper, Cu": 0.015,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": 89.86500000000001,
+            "Manganese, Mn": 0.26,
+            "Nickel, Ni": 0.001,
+            "Other, total": 0.3,
+            "Silicon, Si": 0.2,
+            "Zinc, Zn": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=b055d0346b6d4f438000ed77829fe4ce"
+    },
+    {
+        "alloy": "Magnesium AZ91A-F, Die Cast",
+        "Tensile Strength, Ultimate": "230",
+        "Elongation at Break": "3.0",
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Aluminum, Al": 9.0,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.13,
+            "Nickel, Ni": 0.03,
+            "Silicon, Si": 0.5,
+            "Zinc, Zn": 0.675
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=6a9fb156317c4ca8ab00bf8443eb13b3"
+    },
+    {
+        "alloy": "Magnesium AZ91B-F, Die Cast",
+        "Tensile Strength, Ultimate": "230",
+        "Elongation at Break": "3.0",
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Aluminum, Al": 9.0,
+            "Copper, Cu": 0.35,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.13,
+            "Nickel, Ni": 0.03,
+            "Silicon, Si": 0.5,
+            "Zinc, Zn": 0.675
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=9860f0fd41534f6bbe53a7ae968c705a"
+    },
+    {
+        "alloy": "Magnesium AZ91D-F, Cast",
+        "Tensile Strength, Ultimate": "230",
+        "Elongation at Break": "3.0",
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Aluminum, Al": 9.0,
+            "Copper, Cu": 0.03,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.13,
+            "Nickel, Ni": 0.002,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.675
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=07baafbb9c364fb18fd413bceced867f"
+    },
+    {
+        "alloy": "Parkway Products Thixomolded\u00ae AZ91D Magnesium",
+        "Tensile Strength, Ultimate": "248",
+        "Elongation at Break": "6.0",
+        "Tensile Strength, Yield": "159",
+        "Composition": {
+            "Aluminum, Al": 9.0,
+            "Copper, Cu": 0.03,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "90",
+            "Manganese, Mn": 0.13,
+            "Nickel, Ni": 0.002,
+            "Silicon, Si": 0.1,
+            "Zinc, Zn": 0.675
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=2ab3ecbb63da45e0924b67dae6095472"
+    },
+    {
+        "alloy": "Magnesium AZ92A-T6, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "3.0",
+        "Tensile Strength, Yield": "170",
+        "Composition": {
+            "Aluminum, Al": 9.0,
+            "Copper, Cu": 0.25,
+            "Magnesium, Mg": "89",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 2.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=7855682f98ce4e038f9148ad464a99c0"
+    },
+    {
+        "alloy": "Magnesium AZ92A-F, Cast",
+        "Tensile Strength, Ultimate": "170",
+        "Elongation at Break": "2.0",
+        "Tensile Strength, Yield": "97.0",
+        "Composition": {
+            "Aluminum, Al": 9.0,
+            "Copper, Cu": 0.25,
+            "Magnesium, Mg": "89",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 2.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=c2809f73004141b6b139d21b12341f69"
+    },
+    {
+        "alloy": "Magnesium AZ92A-T4, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "10",
+        "Tensile Strength, Yield": "97.0",
+        "Composition": {
+            "Aluminum, Al": 9.0,
+            "Copper, Cu": 0.25,
+            "Magnesium, Mg": "89",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 2.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=091ad52e001b4f4a9e65eb7c274d5947"
+    },
+    {
+        "alloy": "Magnesium AZ92A-T5, Cast",
+        "Tensile Strength, Ultimate": "170",
+        "Elongation at Break": "1.0",
+        "Tensile Strength, Yield": "115",
+        "Composition": {
+            "Aluminum, Al": 9.0,
+            "Copper, Cu": 0.25,
+            "Magnesium, Mg": "89",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 2.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=62beac394de6495eaff845ab62e237ff"
+    },
+    {
+        "alloy": "Magnesium AZ92A-T7, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "3.0",
+        "Tensile Strength, Yield": "145",
+        "Composition": {
+            "Aluminum, Al": 9.0,
+            "Copper, Cu": 0.25,
+            "Magnesium, Mg": "89",
+            "Manganese, Mn": 0.1,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.3,
+            "Zinc, Zn": 2.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=7c7eaebc82b942bb85ea8022bace03cf"
+    },
+    {
+        "alloy": "Magnesium EA55B-T6, Cast",
+        "Tensile Strength, Ultimate": "271",
+        "Elongation at Break": "8.0",
+        "Tensile Strength, Yield": "167",
+        "Composition": {
+            "Aluminum, Al": "5.0",
+            "Magnesium, Mg": "85",
+            "Neodymium, Nd": "4.9",
+            "Zinc, Zn": "5.0"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=618f942218dc48d6a1830105ad562b96"
+    },
+    {
+        "alloy": "Magnesium EA55RS-T4, Extruded",
+        "Tensile Strength, Ultimate": "425",
+        "Elongation at Break": "14",
+        "Tensile Strength, Yield": "370",
+        "Composition": {
+            "Aluminum, Al": "5.0",
+            "Magnesium, Mg": "85",
+            "Neodymium, Nd": "4.9",
+            "Zinc, Zn": "5.0"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=d730b7bbd11249fcb79c0106fb8c31a9"
+    },
+    {
+        "alloy": "Magnesium EA65B-T6, Cast",
+        "Tensile Strength, Ultimate": "235",
+        "Elongation at Break": "7.0",
+        "Tensile Strength, Yield": "130",
+        "Composition": {
+            "Aluminum, Al": "5.0",
+            "Magnesium, Mg": "84",
+            "Yttrium, Y": "5.9",
+            "Zinc, Zn": "5.0"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=f561c75d983f4b6592e71cb5f8d3f430"
+    },
+    {
+        "alloy": "Magnesium EA65RS-T4, Extruded",
+        "Tensile Strength, Ultimate": "515",
+        "Elongation at Break": "5.0",
+        "Tensile Strength, Yield": "460",
+        "Composition": {
+            "Aluminum, Al": "5.0",
+            "Magnesium, Mg": "84",
+            "Yttrium, Y": "5.9",
+            "Zinc, Zn": "5.0"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=4ac3557f498747aaa6ad0ffbeb405a7d"
+    },
+    {
+        "alloy": "Magnesium EQ21-T6, Cast",
+        "Tensile Strength, Ultimate": "235",
+        "Elongation at Break": "2.0",
+        "Tensile Strength, Yield": "170",
+        "Composition": {
+            "Copper, Cu": 0.07500000000000001,
+            "Magnesium, Mg": "96",
+            "Neodymium, Nd": 2.125,
+            "Nickel, Ni": 0.01,
+            "Silver, Ag": 1.5,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=55e7fc8aba61433f9088f5a059b2eac2"
+    },
+    {
+        "alloy": "Magnesium EQ-21A-T6, Sand/Permanent Mold Castings",
+        "Tensile Strength, Ultimate": "234",
+        "Elongation at Break": "2.0",
+        "Tensile Strength, Yield": "193",
+        "Composition": {
+            "Copper, Cu": 0.07500000000000001,
+            "Magnesium, Mg": "95.7",
+            "Neodymium, Nd": 2.25,
+            "Nickel, Ni": 0.01,
+            "Other, total": 0.3,
+            "Silver, Ag": 1.5,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=33b338d959e4420da22c6772476e9608"
+    },
+    {
+        "alloy": "Magnesium EZ33A-T5, Cast",
+        "Tensile Strength, Ultimate": "160",
+        "Elongation at Break": "2.0",
+        "Tensile Strength, Yield": "125",
+        "Composition": {
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "93",
+            "Neodymium, Nd": 3.25,
+            "Nickel, Ni": 0.01,
+            "Zinc, Zn": 2.55,
+            "Zirconium, Zr": 0.75
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=251d988ad2f14fbb907ee498d6c61db4"
+    },
+    {
+        "alloy": "Magnesium HK31A-T6, Cast",
+        "Tensile Strength, Ultimate": "220",
+        "Elongation at Break": "8.0",
+        "Tensile Strength, Yield": "120",
+        "Composition": {
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "96",
+            "Nickel, Ni": 0.01,
+            "Thorium, Th": 3.25,
+            "Zinc, Zn": 0.3,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=eb827a6ba240453fa33d1c662269b56b"
+    },
+    {
+        "alloy": "Magnesium HK31A-T6, Sheet",
+        "Tensile Strength, Ultimate": "255",
+        "Elongation at Break": "MISSING",
+        "Tensile Strength, Yield": "MISSING",
+        "Composition": {
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "96",
+            "Nickel, Ni": 0.01,
+            "Thorium, Th": 3.25,
+            "Zinc, Zn": 0.3,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=d21cedd3ba5a4c219080cd3d587edb22"
+    },
+    {
+        "alloy": "Magnesium HK31A-O, Plate",
+        "Tensile Strength, Ultimate": "200",
+        "Elongation at Break": "30",
+        "Tensile Strength, Yield": "120",
+        "Composition": {
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "96",
+            "Nickel, Ni": 0.01,
+            "Thorium, Th": 3.25,
+            "Zinc, Zn": 0.3,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=ff9e89cd1ab444c898a57de877f33d3d"
+    },
+    {
+        "alloy": "Magnesium HK31A-H24, Plate",
+        "Tensile Strength, Ultimate": "250",
+        "Elongation at Break": "15",
+        "Tensile Strength, Yield": "180",
+        "Composition": {
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "96",
+            "Nickel, Ni": 0.01,
+            "Thorium, Th": 3.25,
+            "Zinc, Zn": 0.3,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=fbadd86efaa548e7a315448462af0fb9"
+    },
+    {
+        "alloy": "Magnesium HM21A-T8, Sheet and Plate",
+        "Tensile Strength, Ultimate": "235",
+        "Elongation at Break": "11",
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Magnesium, Mg": "97",
+            "Manganese, Mn": 0.775,
+            "Thorium, Th": 2.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=7142e63b11c541d6b07b4eb563d04159"
+    },
+    {
+        "alloy": "Magnesium HM21A-F, Forgings",
+        "Tensile Strength, Ultimate": "230",
+        "Elongation at Break": "15",
+        "Tensile Strength, Yield": "140",
+        "Composition": {
+            "Magnesium, Mg": "97",
+            "Manganese, Mn": 0.775,
+            "Thorium, Th": 2.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=b892791043a248ee940093b430b13d78"
+    },
+    {
+        "alloy": "Magnesium HM21A-T81, Sheet and Plate",
+        "Tensile Strength, Ultimate": "255",
+        "Elongation at Break": "6.0",
+        "Tensile Strength, Yield": "210",
+        "Composition": {
+            "Magnesium, Mg": "97",
+            "Manganese, Mn": 0.775,
+            "Thorium, Th": 2.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=ba535f3597b04d65a30fbcaef202a194"
+    },
+    {
+        "alloy": "Magnesium HM21A-T5, Forgings",
+        "Tensile Strength, Ultimate": "230",
+        "Elongation at Break": "9.0",
+        "Tensile Strength, Yield": "150",
+        "Composition": {
+            "Magnesium, Mg": "97",
+            "Manganese, Mn": 0.775,
+            "Thorium, Th": 2.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=d69b9ce368ff41319d8478b7a975f6c5"
+    },
+    {
+        "alloy": "Magnesium HM31A-F",
+        "Tensile Strength, Ultimate": "290",
+        "Elongation at Break": "10",
+        "Tensile Strength, Yield": "230",
+        "Composition": {
+            "Magnesium, Mg": "96",
+            "Manganese, Mn": 1.2,
+            "Thorium, Th": 3.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=043336de670d44a9b514976dd8130c67"
+    },
+    {
+        "alloy": "Magnesium HM31A O Wrought Alloy (UNS M13312)",
+        "Tensile Strength, Ultimate": "283",
+        "Elongation at Break": "10",
+        "Tensile Strength, Yield": "230",
+        "Composition": {
+            "Magnesium, Mg": "95.8",
+            "Manganese, Mn": "1.2",
+            "Thorium, Th": "3.0"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=9aef2300ed7542d28fdc9ad70f4bbebb"
+    },
+    {
+        "alloy": "Magnesium HM31A-T5, Extruded Solid Shapes",
+        "Tensile Strength, Ultimate": "300",
+        "Elongation at Break": "10",
+        "Tensile Strength, Yield": "270",
+        "Composition": {
+            "Magnesium, Mg": "96",
+            "Manganese, Mn": 1.2,
+            "Thorium, Th": 3.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=066a52c1864f4b33b04a58677747b3f3"
+    },
+    {
+        "alloy": "Magnesium HZ32A-T5, Cast",
+        "Tensile Strength, Ultimate": "185",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "90.0",
+        "Composition": {
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "94",
+            "Nickel, Ni": 0.01,
+            "Rare Earths": 0.1,
+            "Thorium, Th": 3.25,
+            "Zinc, Zn": 2.1,
+            "Zirconium, Zr": 0.75
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=f5758a93b5bb447282641e90a824e82b"
+    },
+    {
+        "alloy": "Magnesium LA141, Ultralight Mg-Li Alloy",
+        "Tensile Strength, Ultimate": "145",
+        "Elongation at Break": "23",
+        "Tensile Strength, Yield": "124",
+        "Composition": {
+            "Aluminum, Al": 1.25,
+            "Lithium, Li": 14.0,
+            "Magnesium, Mg": 85.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=b8ad06d512a84751b567481706bccb60"
+    },
+    {
+        "alloy": "Magnesium LS141, Ultralight Mg-Li Alloy",
+        "Tensile Strength, Ultimate": "138",
+        "Elongation at Break": "23",
+        "Tensile Strength, Yield": "110",
+        "Composition": {
+            "Aluminum, Al": 0.65,
+            "Lithium, Li": 14.0,
+            "Magnesium, Mg": 85.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=0db28f8dee0c45c0886b0b9e11ec283a"
+    },
+    {
+        "alloy": "Magnesium PE, Photoengraving Grade",
+        "Tensile Strength, Ultimate": "MISSING",
+        "Elongation at Break": "MISSING",
+        "Tensile Strength, Yield": "MISSING",
+        "Composition": {
+            "Aluminum, Al": 3.25,
+            "Calcium, Ca": 0.04,
+            "Copper, Cu": 0.05,
+            "Iron, Fe": 0.005,
+            "Magnesium, Mg": "96",
+            "Manganese, Mn": 0.08,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.05,
+            "Zinc, Zn": 1.15
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=c2e825e5fde14a9f8e5afbb0c444a531"
+    },
+    {
+        "alloy": "Magnesium QE22A-T6, Cast",
+        "Tensile Strength, Ultimate": "260",
+        "Elongation at Break": "3.0",
+        "Tensile Strength, Yield": "195",
+        "Composition": {
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "95",
+            "Neodymium, Nd": 2.1,
+            "Nickel, Ni": 0.01,
+            "Silver, Ag": 2.5,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=3b682321dcc3467f99b442b9aa345501"
+    },
+    {
+        "alloy": "Magnesium QH21A-T6, Cast",
+        "Tensile Strength, Ultimate": "275",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "205",
+        "Composition": {
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "95",
+            "Neodymium, Nd": 1.05,
+            "Nickel, Ni": 0.01,
+            "Silver, Ag": 2.5,
+            "Thorium, Th": 1.1,
+            "Zinc, Zn": 0.2,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=dc69c8426f1e44398485ffe54d47fb92"
+    },
+    {
+        "alloy": "Magnesium WE43-T6, Cast",
+        "Tensile Strength, Ultimate": "250",
+        "Elongation at Break": "2.0",
+        "Tensile Strength, Yield": "162",
+        "Composition": {
+            "Copper, Cu": 0.03,
+            "Lithium, Li": 0.2,
+            "Magnesium, Mg": "92",
+            "Manganese, Mn": 0.15,
+            "Neodymium, Nd": 3.4000000000000004,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.01,
+            "Yttrium, Y": 4.0,
+            "Zinc, Zn": 0.2,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=4b8a8c13cf354fc5893a40cf8eca022c"
+    },
+    {
+        "alloy": "Magnesium WE43A-T6, Sand/Permanent Mold Castings",
+        "Tensile Strength, Ultimate": "276",
+        "Elongation at Break": "2.0",
+        "Tensile Strength, Yield": "207",
+        "Composition": {
+            "Magnesium, Mg": "91.9",
+            "Rare Earths": "3.4",
+            "Yttrium, Y": "4.0",
+            "Zirconium, Zr": "0.70"
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=0fcb26f165df49899334d509d8e972f9"
+    },
+    {
+        "alloy": "Magnesium WE54-T6, Cast",
+        "Tensile Strength, Ultimate": "280",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "225",
+        "Composition": {
+            "Copper, Cu": 0.03,
+            "Lithium, Li": 0.2,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.15,
+            "Neodymium, Nd": 3.0,
+            "Nickel, Ni": 0.005,
+            "Silicon, Si": 0.01,
+            "Yttrium, Y": 5.125,
+            "Zinc, Zn": 0.2,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=f41ac8bc1ddd4c1d85247e646b3ec2be"
+    },
+    {
+        "alloy": "Magnesium WE54A-T6, Sand/Permanent Mold Castings",
+        "Tensile Strength, Ultimate": "248",
+        "Elongation at Break": "2.0",
+        "Tensile Strength, Yield": "165",
+        "Composition": {
+            "Copper, Cu": 0.03,
+            "Magnesium, Mg": "91.1",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.005,
+            "Other, each": 0.2,
+            "Other, total": 0.3,
+            "Rare Earths": "3.0",
+            "Silicon, Si": 0.01,
+            "Yttrium, Y": 5.125,
+            "Zinc, Zn": 0.2,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=13b06572615944eb933ac7a95c6b636b"
+    },
+    {
+        "alloy": "Magnesium ZC63-T6",
+        "Tensile Strength, Ultimate": "210",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "125",
+        "Composition": {
+            "Copper, Cu": 2.7,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.5,
+            "Nickel, Ni": 0.01,
+            "Silicon, Si": 0.2,
+            "Zinc, Zn": 6.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=bab6f5a145384499a9fe6816dd74cb32"
+    },
+    {
+        "alloy": "Magnesium ZC-63A-T6, Sand/Permanent Mold Castings",
+        "Tensile Strength, Ultimate": "248",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "172",
+        "Composition": {
+            "Copper, Cu": 2.7,
+            "Magnesium, Mg": "91",
+            "Manganese, Mn": 0.5,
+            "Nickel, Ni": 0.01,
+            "Other, total": 0.3,
+            "Silicon, Si": 0.2,
+            "Zinc, Zn": 6.0
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=57992fdd32f1481db247b3b1b4d0c8b8"
+    },
+    {
+        "alloy": "Magnesium ZC71, As-Extruded",
+        "Tensile Strength, Ultimate": "280",
+        "Elongation at Break": "12",
+        "Tensile Strength, Yield": "180",
+        "Composition": {
+            "Copper, Cu": 1.25,
+            "Magnesium, Mg": 91.25,
+            "Manganese, Mn": 0.75,
+            "Nickel, Ni": 0.01,
+            "Other, total": 0.3,
+            "Silicon, Si": 0.2,
+            "Zinc, Zn": 6.5
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=60c6563074c14686b1c9f2fdb43a614d"
+    },
+    {
+        "alloy": "Magnesium ZC71-T6, Extruded Bars/Shapes",
+        "Tensile Strength, Ultimate": "296",
+        "Elongation at Break": "3.0",
+        "Tensile Strength, Yield": "324",
+        "Composition": {
+            "Copper, Cu": 1.25,
+            "Magnesium, Mg": 91.25,
+            "Manganese, Mn": 0.75,
+            "Nickel, Ni": 0.01,
+            "Other, total": 0.3,
+            "Silicon, Si": 0.2,
+            "Zinc, Zn": 6.5
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=4876b83a410a4f9f97f232514e016a1b"
+    },
+    {
+        "alloy": "Magnesium ZC71-T5",
+        "Tensile Strength, Ultimate": "300",
+        "Elongation at Break": "8.0",
+        "Tensile Strength, Yield": "240",
+        "Composition": {
+            "Copper, Cu": 1.25,
+            "Magnesium, Mg": 91.25,
+            "Manganese, Mn": 0.75,
+            "Nickel, Ni": 0.01,
+            "Other, total": 0.3,
+            "Silicon, Si": 0.2,
+            "Zinc, Zn": 6.5
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=4d238954f08d44fc8a1aa90597f9d57b"
+    },
+    {
+        "alloy": "Magnesium ZC71-T6",
+        "Tensile Strength, Ultimate": "360",
+        "Elongation at Break": "6.0",
+        "Tensile Strength, Yield": "340",
+        "Composition": {
+            "Copper, Cu": 1.25,
+            "Magnesium, Mg": 91.25,
+            "Manganese, Mn": 0.75,
+            "Nickel, Ni": 0.01,
+            "Other, total": 0.3,
+            "Silicon, Si": 0.2,
+            "Zinc, Zn": 6.5
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=c0d517ecb6f040c7b9f2136c94aa6af8"
+    },
+    {
+        "alloy": "Magnesium ZE41A-T5, Cast",
+        "Tensile Strength, Ultimate": "205",
+        "Elongation at Break": "3.5",
+        "Tensile Strength, Yield": "140",
+        "Composition": {
+            "Cerium, Ce": 1.25,
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "94",
+            "Manganese, Mn": 0.15,
+            "Nickel, Ni": 0.01,
+            "Zinc, Zn": 4.25,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=0d2a4c5a403c4d728b1af19ba7b818e0"
+    },
+    {
+        "alloy": "Magnesium ZE63A-T6, Cast",
+        "Tensile Strength, Ultimate": "300",
+        "Elongation at Break": "10",
+        "Tensile Strength, Yield": "190",
+        "Composition": {
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "91",
+            "Neodymium, Nd": 2.55,
+            "Nickel, Ni": 0.01,
+            "Zinc, Zn": 5.75,
+            "Zirconium, Zr": 0.7
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=889c8227b45e46399b08a4185e2dc345"
+    },
+    {
+        "alloy": "Magnesium ZH62A-T5, Cast",
+        "Tensile Strength, Ultimate": "240",
+        "Elongation at Break": "4.0",
+        "Tensile Strength, Yield": "200",
+        "Composition": {
+            "Copper, Cu": 0.1,
+            "Magnesium, Mg": "92",
+            "Nickel, Ni": 0.01,
+            "Thorium, Th": 1.8,
+            "Zinc, Zn": 5.7,
+            "Zirconium, Zr": 0.75
+        },
+        "url": "http://www.matweb.com/search/DataSheet.aspx?MatGUID=7c08b6e11b83498595994285ea75d486"
+    }
+]
